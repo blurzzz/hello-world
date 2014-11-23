@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repo
+Just another repo, or so you think it is
